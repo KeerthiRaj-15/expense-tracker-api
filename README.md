@@ -55,7 +55,7 @@ expense-tracker-api/
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/expense-tracker-api.git
+https://github.com/KeerthiRaj-15/expense-tracker-api
 ```
 
 Move into the project folder
